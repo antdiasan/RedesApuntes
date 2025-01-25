@@ -69,8 +69,8 @@ Los principales son:
 
 ## Funcionamiento en el modelo OSI
 
-**Capa de Aplicación**: DHCP opera en esta capa como un protocolo de configuración.
-**Capa de Transporte**: Puerto 67 para el servidor DHCP y Puerto 68 para el cliente DHCP.
+- **Capa de Aplicación**: DHCP opera en esta capa como un protocolo de configuración.
+- **Capa de Transporte**: Puerto 67 para el servidor DHCP y Puerto 68 para el cliente DHCP.
 <br><br>
 
 ## Ventajas de DHCP
