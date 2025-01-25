@@ -1,9 +1,9 @@
-# Apuntes de Redes Locales by Antonio Díaz Santamaría
+# Bienvenido a los Apuntes de Redes Locales
 
-Bienvenido a los **Apuntes de Redes Locales**. Este documento está organizado en varias unidades. A continuación, encontrarás el índice completo del curso. Haz clic en los enlaces de cada unidad para acceder a los distintos apartados.
+Este proyecto contiene los apuntes organizados por unidades
 
-## Unidades
+## Índice de Unidades
+- [Unidad 5: Interconexión de equipos en redes locales](u05/u05_01.md)
 
-### Unidad 5: Interconexión de Equipos en Redes Locales
-5. [Interconexión de Equipos](u05/u05_01.md)
+Proyecto realizado por &copy;Antonio Díaz Santamaría (2024/25)
 

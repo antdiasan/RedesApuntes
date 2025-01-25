@@ -12,15 +12,9 @@ extra_css:
   - 'assets/css/custom.css'  # Ruta al archivo CSS que acabamos de crear
 nav:
   - Índice: 'index.md'
-  - Unidad 1:
-      - 1.1. Introducción: 'unidad01/1_introduccion.md'
-      - 1.2. Estructura: 'unidad01/2_estructura.md'
-      - 1.3. Clases: 'unidad01/3_clases.md'
-  - Unidad 2:
-      - 2.1. Introducción: 'unidad02/1_introduccion.md'
-      - 2.2. Normativas: 'unidad02/2_normativas.md'
-  - Unidad 3:
-      - 3.1. Introducción: 'unidad03/1_introduccion.md'
+  - Unidad 1: []  # Si no tienes contenido, puedes dejarlo vacío de esta forma, o eliminar la entrada.
+  - Unidad 2: []  # Si no tienes contenido, puedes dejarlo vacío de esta forma, o eliminar la entrada.
+  - Unidad 3: []  # Si no tienes contenido, puedes dejarlo vacío de esta forma, o eliminar la entrada.
   - Unidad 4: []  # Si no tienes contenido, puedes dejarlo vacío de esta forma, o eliminar la entrada.
   - Unidad 5:
       - 5.1. Introducción: 'u05/u05_01.md'
