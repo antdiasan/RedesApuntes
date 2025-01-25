@@ -1,0 +1,55 @@
+/* Personalizar títulos de apartados */
+h2, h3, h4, h5, h6 {
+    font-weight: normal !important; /* NO-Negrita */
+}
+
+/* Ajustar tamaño para cada nivel de título */
+h1 {
+    color: #4431f0 !important; /* Color azul */
+    font-size: 30px !important; /* Puedes personalizarlo más */
+    text-transform: uppercase !important;
+}
+
+h2 {
+    color: #368f18 !important; 
+    font-size: 26px !important;
+}
+
+h3 {
+    color: #781343 !important; /* Color bermellón */
+    font-size: 22px !important;
+}
+
+h4 {
+    color: #8c1773 !important;
+    font-size: 18px !important;
+}
+
+.footer-copyright {
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+    padding: 20px 0;
+    margin-top: 50px;
+    border-top: 1px solid #ddd;
+}
+
+
+
+/* Aplica color bermellón a cualquier texto que esté en cursiva y negrita */
+strong em, em strong {
+    color: #7a0b0b;  /* Bermellón */
+    font-weight: bold;  /* Negrita */
+    font-style: italic;  /* Cursiva */
+}
+
+/* Estilo personalizado para citas */
+.custom-quote {
+    background-color: #f0f0f0; /* Color de fondo */
+    border-left: 5px solid #95a4df; /* Borde izquierdo rojo */
+    padding: 10px 20px;
+    color: #111caa; /* Color del texto */
+    font-style: italic; /* Opcional, para hacerlo cursivo */
+}
+
+

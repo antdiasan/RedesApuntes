@@ -1,3 +1,34 @@
-site_name: Apuntes de Redes
+site_name: Apuntes de Redes Locales &copy;Antonio Díaz Santamaría
+site_author: Antonio Díaz Santamaría
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'  # Color primario
+    accent: 'red'      # Color de acento
+  features:
+    - navigation.sections  # Expansión y colapso de las secciones
+    - navigation.instant   # Desplazamiento rápido
+extra_css:
+  - 'assets/css/custom.css'  # Ruta al archivo CSS que acabamos de crear
 nav:
-  - Inicio: index.md
+  - Índice: 'index.md'
+  - Unidad 1:
+      - 1.1. Introducción: 'unidad01/1_introduccion.md'
+      - 1.2. Estructura: 'unidad01/2_estructura.md'
+      - 1.3. Clases: 'unidad01/3_clases.md'
+  - Unidad 2:
+      - 2.1. Introducción: 'unidad02/1_introduccion.md'
+      - 2.2. Normativas: 'unidad02/2_normativas.md'
+  - Unidad 3:
+      - 3.1. Introducción: 'unidad03/1_introduccion.md'
+  - Unidad 4: []  # Si no tienes contenido, puedes dejarlo vacío de esta forma, o eliminar la entrada.
+  - Unidad 5:
+      - 5.1. Introducción: 'u05/u05_01.md'
+      - 5.2. Estructura de una dir. IP: 'u05/u05_02.md'
+      - 5.3. Clases de redes: 'u05/u05_03.md'
+      - 5.4. IP privada y pública: 'u05/u05_04.md'
+      - 5.5. Máscara de red: 'u05/u05_05.md'
+      - 5.6. Subneteo: 'u05/u05_06.md'
+      - 5.6. VLSM: 'u05/u05_07.md'
+      - 5.7. Tablas de enrutamiento: 'u05/u05_08.md'
+
