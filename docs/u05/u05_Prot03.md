@@ -1,14 +1,14 @@
 # Protocolo ARP
 
 <div class="custom-quote">ARP (Address Resolution Protocol) es un protocolo de red utilizado para mapear direcciones IP a direcciones MAC dentro de una red local.
-
+<br>
 Su propósito es permitir que un dispositivo que conoce la dirección IP de destino descubra la dirección MAC correspondiente.</div>
 
 Opera en la capa de enlace de datos (capa 2) del modelo OSI y es esencial para que los dispositivos en una red puedan comunicarse correctamente.
 
 ## Funcimiento del Protocolos ARP
 
-El dispositiro que quiere enviar el mensaje conoce la dirección IP del destino, pero no su MAC, y como ambos están en la misma red local, los mensajes trabajan con direcciones MAC. 
+El dispositivo que quiere enviar el mensaje conoce la dirección IP del destino, pero no su MAC, y como ambos están en la misma red local, los mensajes se envían con direcciones MAC. 
 
 Por lo que el dispositivo origen envía un mensaje **ARP Request** en broadcast, preguntando: *¿Quién tiene esta dirección IP? Dime tu MAC*.
 
@@ -22,7 +22,11 @@ Su propósito es almacenar temporalmente las relaciones **IP - MAC** para evitar
 Para ello *cada dispositivo mantiene una tabla ARP*, donde asocia direcciones IP con direcciones MAC.
 
 Las entradas en esta tabla tienen un tiempo de vida limitado y se eliminan si no se utilizan durante un período específico.
-<br><br>
+<br>
+<p align="center">
+  <img src="/img/protocoloARP.png" alt="protocolo ARP" width="400px" />
+</p>
+<br>
 
  
 ## Mensajes ARP
