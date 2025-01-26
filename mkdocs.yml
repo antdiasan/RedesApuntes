@@ -28,4 +28,6 @@ nav:
       - 5.9. Protocolo DHCP: 'u05/u05_Prot01.md'
       - 5.10. Protocolo DNS: 'u05/u05_Prot02.md'
       - 5.11. Protocolo ARP: 'u05/u05_Prot03.md'
+      - 5.10. Protocolo BOOTP: 'u05/u05_Prot04.md'
+      - 5.13. Protocolo ICMP: 'u05/u05_Prot05.md'
 
