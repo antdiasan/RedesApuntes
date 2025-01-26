@@ -24,7 +24,7 @@ Para ello *cada dispositivo mantiene una tabla ARP*, donde asocia direcciones IP
 Las entradas en esta tabla tienen un tiempo de vida limitado y se eliminan si no se utilizan durante un período específico.
 <br>
 <p align="center">
-  <img src="/img/protocoloARP.png" alt="protocolo ARP" width="400px" />
+  <img src="/images/protocoloARP.png" alt="protocolo ARP" width="400px" />
 </p>
 <br>
 
