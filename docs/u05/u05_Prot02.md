@@ -22,17 +22,12 @@ El proceso típico incluye los siguientes pasos:
 
 1. **Consulta del cliente al servidor DNS local**: Cuando un usuario introduce un nombre de dominio en su navegador, el sistema operativo del dispositivo envía una consulta al servidor DNS configurado, generalmente proporcionado por el ISP.
 2. **Resolución iterativa o recursiva**: Si el servidor DNS local no tiene la dirección solicitada en su caché, actúa como intermediario y realiza consultas iterativas o recursivas a otros servidores DNS hasta obtener la respuesta.
-3. **Jerarquía de servidores DNS**:
-   - *Servidores raíz*: Apuntan a los servidores TLD (Top-Level Domain).
-   - *Servidores TLD*: Gestionan dominios de nivel superior, como .com, .org, .es.
-   - *Servidores autoritativos*: Contienen la información final sobre un dominio específico.
-4. **Respuesta al cliente**: Una vez resuelto el nombre de dominio, el servidor DNS local devuelve la dirección IP correspondiente al cliente, que puede entonces iniciar la comunicación con el servidor deseado.
-
-<br><br>
+3. **Respuesta al cliente**: Una vez resuelto el nombre de dominio, el servidor DNS local devuelve la dirección IP correspondiente al cliente, que puede entonces iniciar la comunicación con el servidor deseado.
+<br>
 
 ## Ejemplo práctico
 
 1. Un usuario introduce www.marca.es en su navegador.
 2. El cliente DNS del sistema operativo consulta al servidor DNS configurado (por ejemplo, 8.8.8.8 de Google).
-3. Si la respuesta no está en caché, el servidor consulta a servidores raíz, TLD y autoritativos.
+3. Si la respuesta no está en caché, el servidor consulta a otros servidores DNS.
 4. Finalmente, el cliente recibe la dirección IP 104.26.7.250 y puede establecer la conexión.
