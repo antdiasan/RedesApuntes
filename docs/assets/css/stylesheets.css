@@ -1,0 +1,14 @@
+/* Cambia las viñetas del primer nivel */
+ul > li {
+    list-style-type: disc; /* Círculo sólido */
+}
+
+/* Cambia las viñetas del segundo nivel */
+ul ul > li {
+    list-style-type: circle; /* Círculo vacío */
+}
+
+/* Cambia las viñetas del tercer nivel */
+ul ul ul > li {
+    list-style-type: square; /* Cuadrado */
+}
