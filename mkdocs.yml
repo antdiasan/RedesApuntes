@@ -24,6 +24,9 @@ nav:
           - 5.2.2 Clases de redes: 'u05/05-02-02.md'
           - 5.2.3 IP privada y pública: 'u05/05-02-03.md'
           - 5.2.4 Máscara de red: 'u05/05-02-04.md'
+          - 5.2.5 Direccionamiento IPv6:
+              - 5.2.5.1 Introducción: 'u05/05-02-05-01.md'
+              - 5.2.5.2 Dirección IPv6: 'u05/05-02-05-02.md'
       - 5.3. Segmentación de una red:
           - 5.3.1 Subneteo: 'u05/05-03-01.md'
           - 5.3.2 VLSM: 'u05/05-03-02.md'
@@ -41,4 +44,17 @@ nav:
           - 5.5.3 Protocolo ARP: 'u05/05-05-03.md'
           - 5.5.4 Protocolo BOOTP: 'u05/05-05-04.md'
           - 5.5.5 Protocolo ICMP: 'u05/05-05-05.md'
+      - 5.6. Redes Inalámbricas:
+          - 5.6.1 Características: 'u05/05-06-01.md'
+          - 5.6.2 Modos de funcionamiento: 'u05/05-06-02.md'
+          - 5.6.3 Protocolos y Estándares comunes: 'u05/05-06-03.md'
+          - 5.6.4 Configuración básica: 'u05/05-06-04.md'
+          - 5.6.5 Seguridad: 'u05/05-06-05.md'
+      - 5.7. Seguridad y VLANs:
+          - 5.7.1 La Seguridad en las redes: 'u05/05-07-01.md'
+          - 5.7.2 VLANS:
+              - 5.7.2.1 ¿Que son?: 'u05/05-07-02-01.md'
+              - 5.7.2.2 Tipos: 'u05/05-07-02-02.md'
+              - 5.7.2.3 Configuración Básica: 'u05/05-07-02-03.md'
+              - 5.7.2.4 Medidas de seguridad: 'u05/05-07-02-04.md'
 
