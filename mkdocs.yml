@@ -30,7 +30,11 @@ nav:
       - 5.4. Enrutamiento:
           - 5.4.1 Tablas de enrutamiento: 'u05/05-04-01.md'
           - 5.4.2 Tipos de enrutamiento: 'u05/05-04-02.md'
-          - 5.4.3 Herramientas para comprobar la conectividad: 'u05/05-04-03.md'
+          - 5.4.3 Herramientas para comprobar la conectividad:
+              - 5.4.3.1 Comando Ping: 'u05/05-04-03-01.md'
+              - 5.4.3.2 Comando tracert / traceroute: 'u05/05-04-03-02.md'
+              - 5.4.3.3 Comando arp: 'u05/05-04-03-03.md'
+              - 5.4.3.4 Comando ipconfig / ifconfig: 'u05/05-04-03-04.md'
       - 5.5. Protocolos:
           - 5.5.1 Protocolo DHCP: 'u05/05-05-01.md'
           - 5.5.2 Protocolo DNS: 'u05/05-05-02.md'
