@@ -21,7 +21,7 @@ nav:
       - 5.1. Introducción: 'u05/05-01.md'
       - 5.2. Direccionamiento IPv4:
           - 5.2.1 Estructura de una dir. IP: 'u05/05-02-01.md'
-          - 5.2.2 Clases de reds: 'u05/05-02-02.md'
+          - 5.2.2 Clases de redes: 'u05/05-02-02.md'
           - 5.2.3 IP privada y pública: 'u05/05-02-03.md'
           - 5.2.4 Máscara de red: 'u05/05-02-04.md'
       - 5.3. Segmentación de una red:
