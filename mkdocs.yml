@@ -28,8 +28,9 @@ nav:
               - 5.2.5.1 Introducción: 'u05/05-02-05-01.md'
               - 5.2.5.2 Dirección IPv6: 'u05/05-02-05-02.md'
       - 5.3. Segmentación de una red:
-          - 5.3.1 Subneteo: 'u05/05-03-01.md'
-          - 5.3.2 VLSM: 'u05/05-03-02.md'
+          - 5.3.1 Ventajas de la segmentación: 'u05/05-03-01.md'
+          - 5.3.2 Subneteo: 'u05/05-03-02.md'
+          - 5.3.3 VLSM: 'u05/05-03-03.md'
       - 5.4. Enrutamiento:
           - 5.4.1 Tablas de enrutamiento: 'u05/05-04-01.md'
           - 5.4.2 Tipos de enrutamiento: 'u05/05-04-02.md'
