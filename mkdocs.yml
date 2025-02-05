@@ -48,9 +48,9 @@ nav:
       - 5.6. Redes Inalámbricas:
           - 5.6.1 Características: 'u05/05-06-01.md'
           - 5.6.2 Componentes de una WLAN: 'u05/05-06-02.md'
-          - 5.6.3 Modos de funcionamiento: 'u05/05-06-03.md'
+          - 5.6.3 Topología de las WLAN: 'u05/05-06-03.md'
           - 5.6.4 Protocolos y Estándares comunes: 'u05/05-06-04.md'
-          - 5.6.5 Configuración básica: 'u05/05-06-05.md'
+          - 5.6.5 Asociación y Autenticación en WLAN: 'u05/05-06-05.md'
           - 5.6.6 Seguridad: 'u05/05-06-06.md'
       - 5.7. Seguridad y VLANs:
           - 5.7.1 La Seguridad en las redes: 'u05/05-07-01.md'
