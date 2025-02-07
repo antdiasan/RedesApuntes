@@ -46,12 +46,11 @@ nav:
               - 5.5.3.2 Comando tracert / traceroute: 'u05/05-05-03-02.md'
               - 5.5.3.3 Comando arp: 'u05/05-05-03-03.md'
               - 5.5.3.4 Comando ipconfig / ifconfig: 'u05/05-05-03-04.md'
-      - 5.6. Protocolos:
-          - 5.6.1 Protocolo DHCP: 'u05/05-06-01.md'
-          - 5.6.2 Protocolo DNS: 'u05/05-06-02.md'
-          - 5.6.3 Protocolo ARP: 'u05/05-06-03.md'
-          - 5.6.4 Protocolo BOOTP: 'u05/05-06-04.md'
-          - 5.6.5 Protocolo ICMP: 'u05/05-06-05.md'
+      - 5.6 VLANS:
+          - 5.6.1 ¿Que son?: 'u05/05-06-01.md'
+          - 5.6.2 Tipos: 'u05/05-06-02.md'
+          - 5.6.3 Configuración Básica: 'u05/05-06-03.md'
+          - 5.6.4 Medidas de seguridad: 'u05/05-06-04.md'
       - 5.7. Redes Inalámbricas:
           - 5.7.1 Características: 'u05/05-07-01.md'
           - 5.7.2 Componentes de una WLAN: 'u05/05-07-02.md'
@@ -59,11 +58,13 @@ nav:
           - 5.7.4 Protocolos y Estándares comunes: 'u05/05-07-04.md'
           - 5.7.5 Asociación y Autenticación en WLAN: 'u05/05-07-05.md'
           - 5.7.6 Seguridad: 'u05/05-07-06.md'
-      - 5.8. Seguridad y VLANs:
+      - 5.8. Seguridad:
           - 5.8.1 La Seguridad en las redes: 'u05/05-08-01.md'
-          - 5.8.2 VLANS:
-              - 5.8.2.1 ¿Que son?: 'u05/05-08-02-01.md'
-              - 5.8.2.2 Tipos: 'u05/05-08-02-02.md'
-              - 5.8.2.3 Configuración Básica: 'u05/05-08-02-03.md'
-              - 5.8.2.4 Medidas de seguridad: 'u05/05-08-02-04.md'
+      - 5.9. Protocolos:
+          - 5.9.1 Protocolo DHCP: 'u05/05-09-01.md'
+          - 5.9.2 Protocolo DNS: 'u05/05-09-02.md'
+          - 5.9.3 Protocolo ARP: 'u05/05-09-03.md'
+          - 5.9.4 Protocolo BOOTP: 'u05/05-09-04.md'
+          - 5.9.5 Protocolo ICMP: 'u05/05-09-05.md'
+
 
