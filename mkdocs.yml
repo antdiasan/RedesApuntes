@@ -39,13 +39,17 @@ nav:
           - 5.4.5 ¿Qué ocurre cuando la Tabla CAM se llena?: 'u05/05-04-05.md'
           - 5.4.6 Diferencia entre switches capa 2 y capa 3: 'u05/05-04-06.md'
       - 5.5. Enrutamiento:
-          - 5.5.1 Tablas de enrutamiento: 'u05/05-05-01.md'
+          - 5.5.1 Tablas de enrutamiento: 
+              - 5.5.1.1 Introducción a las tablas de enrutamiento: 'u05/05-05-01-01.md'
+              - 5.5.1.2 Tabla de enrutamiento de un Host: 'u05/05-05-01-02.md'
+              - 5.5.1.3 Tabla de enrutamiento de un Router: 'u05/05-05-01-03.md'
           - 5.5.2 Tipos de enrutamiento: 'u05/05-05-02.md'
           - 5.5.3 Herramientas para comprobar la conectividad:
-              - 5.5.3.1 Comando Ping: 'u05/05-05-03-01.md'
-              - 5.5.3.2 Comando tracert / traceroute: 'u05/05-05-03-02.md'
-              - 5.5.3.3 Comando arp: 'u05/05-05-03-03.md'
-              - 5.5.3.4 Comando ipconfig / ifconfig: 'u05/05-05-03-04.md'
+              - 5.5.3.1 Herramientas disponibles: 'u05/05-05-03-01.md'
+              - 5.5.3.2 Comando Ping: 'u05/05-05-03-02.md'
+              - 5.5.3.3 Comando tracert / traceroute: 'u05/05-05-03-03.md'
+              - 5.5.3.4 Comando arp: 'u05/05-05-03-04.md'
+              - 5.5.3.5 Comando ipconfig / ifconfig: 'u05/05-05-03-05.md'
       - 5.6 VLANS:
           - 5.6.1 ¿Que son?: 'u05/05-06-01.md'
           - 5.6.2 Tipos: 'u05/05-06-02.md'
