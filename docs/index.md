@@ -5,6 +5,7 @@ Este proyecto contiene los apuntes organizados por unidades
 
 ## Índice de Unidades
 - [Unidad 5: Interconexión de equipos en redes locales](u05/05-01.md)
+- [Unidad 6: Instalación y Configuración de equipos en redes locales](u06/06-01.md)
   
 
   

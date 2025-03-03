@@ -37,8 +37,7 @@ nav:
           - 5.4.2 Tabla CAM: 'u05/05-04-02.md'
           - 5.4.3 Aprendizaje de las direcciones MAC: 'u05/05-04-03.md'
           - 5.4.4 Mantenimiento de la Tabla CAM: 'u05/05-04-04.md'
-          - 5.4.5 ¿Qué ocurre cuando la Tabla CAM se llena?: 'u05/05-04-05.md'
-          - 5.4.6 Diferencia entre switches capa 2 y capa 3: 'u05/05-04-06.md'
+          - 5.4.5 Diferencia entre switches capa 2 y capa 3: 'u05/05-04-05.md'
       - 5.5. Enrutamiento:
           - 5.5.1 Introducción al Enrutamiento: 'u05/05-05-01.md'
           - 5.5.2 Tablas de enrutamiento: 
@@ -72,5 +71,22 @@ nav:
           - 5.9.3 Protocolo ARP: 'u05/05-09-03.md'
           - 5.9.4 Protocolo BOOTP: 'u05/05-09-04.md'
           - 5.9.5 Protocolo ICMP: 'u05/05-09-05.md'
-
+  - Unidad 6:
+      - 6.1. Introducción: 'u06/06-01.md'
+      - 6.2. Instalación y primeros pasos: 'u06/06-02.md'
+      - 6.3. Interfaz y Herramientas: 'u06/06-03.md'
+      - 6.4. Primera red: 'u06/06-04.md'
+      - 6.5. Configuración de Switchs y Routers:
+          - 6.5.1 Introducción: 'u06/06-05-01.md'
+          - 6.5.2 Configuración de Switchs: 'u06/06-05-02.md'
+          - 6.5.3 Modos de Operación: 'u06/06-05-03.md'
+          - 6.5.4 Cisco IOS: 'u06/06-05-04.md'
+          - 6.5.5 Configuración de los Switchs: 'u06/06-05-05.md'
+          - 6.5.6 VLANs: 'u06/06-05-06.md'
+          - 6.5.7 Conexión Switch-Patch Panel: 'u06/06-05-07.md'
+          - 6.5.8 Routers: 'u06/06-05-08.md'
+          - 6.5.9 Enlace Serial: 'u06/06-05-09.md'
+      - 6.6. Diagnóstico: 'u06/06-06.md'
+      - 6.7. Calidad en Instalaciones: 'u06/06-07.md'
+      - 6.8. Buenas Prácticas: 'u06/06-08.md'
 
