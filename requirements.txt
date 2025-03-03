@@ -1,0 +1,14 @@
+# Requerido para construir el sitio con MkDocs
+mkdocs
+
+# Tema Material para MkDocs (si lo usas)
+mkdocs-material
+
+# Plugins comunes para MkDocs (añade solo los que uses)
+mkdocs-awesome-pages-plugin
+mkdocs-mermaid2-plugin
+mkdocs-git-revision-date-plugin
+
+# Si usas Python Markdown Extensions (opcional)
+markdown-include
+pymdown-extensions
